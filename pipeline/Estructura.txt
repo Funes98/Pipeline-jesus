@@ -1,0 +1,17 @@
+mi-aplicacion-web/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── ejemplo/
+│   │   │           ├── controlador/
+│   │   │           │   └── SaludoServlet.java
+│   │   │           └── modelo/
+│   │   │               └── Usuario.java
+│   │   ├── resources/
+│   │   └── webapp/
+│   │       └── WEB-INF/
+│   │           └── vistas/
+│   │               └── saludo.jsp
+│   └── test/
+└── pom.xml
